@@ -1,1 +1,1 @@
-<img src="ronaldinho.gif" width="1000" />
+<img src="spiderman.gif" width="1000" />
