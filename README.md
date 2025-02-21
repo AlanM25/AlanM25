@@ -1,1 +1,1 @@
-<img src="mario.gif" width="1000" />
+<img src="ronaldinho.gif" width="1000" />
